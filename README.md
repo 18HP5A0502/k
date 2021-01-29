@@ -1,2 +1,2 @@
 # display image
-![alt car}(car.jpg) 
+![alt car](car.jpg) 
